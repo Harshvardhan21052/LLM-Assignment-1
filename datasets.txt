@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/tarundalal/100-richest-people-in-world
+
+https://www.kaggle.com/datasets/mattop/alcohol-consumption-per-capita-2016

@@ -1,0 +1,12 @@
+You are now facing the Northeast direction.
+You are facing north in start.
+Then you turn 90 degrees left and face west.
+Then 180 degrees left so you face east.
+Then you reverse direction so you face west now.
+Then you turn 45 degrees left now so you face south west.
+Then you reverse direction and face north east.
+
+I guess the answer is south — west but I am not fully sure. Here is my explanation:
+When I turn 90 degrees, I will be facing west but turning 180 degrees, I guess I will be facing east.
+After reversing, my direction will be west. If I take left, I'll be facing south. As it's 45 degrees, then my direction will be west to south.
+Again reverse, then I will be south west.
